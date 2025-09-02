@@ -46,5 +46,5 @@ I used tools like **Python, SQL, Apache Airflow, dbt, Snowflake, BigQuery, Redsh
 
 ##  Contact
 - **Email:** momensamer807@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/momen-samer-44ab67381)  
-- **GitHub:** [github.com/yourusername](https://github.com/kxmaie)  
+- **LinkedIn:** (www.linkedin.com/in/momen-samer-44ab67381)  
+- **GitHub:** (https://github.com/kxmaie)  
