@@ -13,7 +13,7 @@ Loaded data into Snowflake
 Implemented transformations and business logic using dbt
 Applied parallel processing and dependency management
 🏥 2. Hospital Early Warning System (Microsoft Fabric)
-Designed Medallion Architecture (Bronze, Silver, Gold) using Microsoft Fabric
+Designed Medallion Architecture (Bronze, Silver, Gold)
 Built healthcare analytics datasets for:
 Doctors (lab abnormalities)
 Nursing (vital alerts)
@@ -32,35 +32,33 @@ Integrated SQL Server with Microsoft Fabric Dataflow Gen2
 🔗 https://github.com/kxmaie/yallakora_matches_pipeline
 
 Web scraping for football match data
-Loaded into Snowflake via Apache Airflow
-Transformations & tests using dbt
+Loaded into Snowflake using Apache Airflow
+Transformations and tests using dbt
 🌦️ 5. Weather API Pipeline
 
 🔗 https://github.com/kxmaie/api-weather-pipeline
 
 Extracted weather data from API
 Loaded into Snowflake
-Data cleaning & testing using dbt
+Data cleaning and transformation using dbt
 💼 6. Wuzzuf Jobs Pipeline
 
 🔗 https://github.com/kxmaie/jobs_pipeline
 
-Scraped job listings data
-Built pipeline with Apache Airflow
-Transformed using dbt
+Extracted job listings data from Wuzzuf
+Built automated pipeline using Apache Airflow
+Applied transformations using dbt
 👨‍💼 7. HR Data Pipeline (Postgres → BigQuery)
 
 🔗 https://github.com/kxmaie/hr_analysis_pipeline
 
-Extracted data from PostgreSQL
+Extracted HR data from PostgreSQL
 Loaded into BigQuery
 Applied transformations using dbt
-Automated pipeline with Apache Airflow
+Automated workflow with Airflow
 🏆 Certifications
 Microsoft Certified: Fabric Data Engineer Associate – Microsoft Fabric
-
 SnowPro Core Certification – Snowflake Cloud Data Platform
-
 dbt Fundamentals
 🛠️ Tools & Technologies
 💻 Languages
@@ -80,3 +78,8 @@ Power BI
 🧰 Tools
 Pandas
 Docker
+Git
+📬 Contact
+📧 Email: momensamer807@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/momen-samer-44ab67381
+💻 GitHub: https://github.com/kxmaie
