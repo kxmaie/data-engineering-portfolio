@@ -12,6 +12,9 @@ Transformed data using Python & SQL (cleaning, parsing, deduplication)
 Loaded data into Snowflake
 Implemented transformations and business logic using dbt
 Applied parallel processing and dependency management
+
+
+
 🏥 2. Hospital Early Warning System (Microsoft Fabric)
 Designed Medallion Architecture (Bronze, Silver, Gold)
 Built healthcare analytics datasets for:
@@ -20,6 +23,9 @@ Nursing (vital alerts)
 Implemented data validation & observability
 Created Power BI dashboards for monitoring patient status
 Enabled multi-workspace architecture with shared Lakehouse
+
+
+
 🍽️ 3. Restaurant Analytics Pipeline (RFM Modeling)
 Built an end-to-end ELT pipeline using Apache Airflow and dbt
 Designed Star Schema (Fact & Dimension tables)
